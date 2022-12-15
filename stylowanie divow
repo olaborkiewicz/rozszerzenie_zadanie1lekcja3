@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pl-PL">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="style_stylowanie divow.css"/>
+    <title> Stylowanie div'ów </title>
+</head>
+<body>
+    <div id="div_1" style="background-color: aqua;">
+    </div>
+    <div id="div_2" style="background-color:blueviolet;">
+    </div>
+    <div id="div_3" style="background-color: maroon;">
+    </div>
+    <div id="div_4" style="background-color:orange;">
+    </div>
+
+</body>
+</html>
