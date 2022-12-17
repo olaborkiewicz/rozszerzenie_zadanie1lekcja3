@@ -1,0 +1,23 @@
+#div_1 {
+  background-color: aqua;
+}
+
+#div_2 {
+  background-color: blueviolet;
+}
+
+#div_3 {
+  background-color: maroon;
+}
+
+#div_4 {
+  width: 600px;
+  height: 200px;
+  background-color: orange;
+}
+
+.class_1 {
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+}
